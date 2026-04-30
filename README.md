@@ -1,2 +1,2 @@
-# data.demo
+# Data.demo
 this is my first repository
